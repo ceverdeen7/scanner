@@ -1,0 +1,29 @@
+c:\users\roothema\documents\visual studio 2010\Projects\ScannerUtility\NxtController\bin\Debug\NxtController.dll
+c:\users\roothema\documents\visual studio 2010\Projects\ScannerUtility\NxtController\bin\Debug\NxtController.pdb
+c:\users\roothema\documents\visual studio 2010\Projects\ScannerUtility\NxtController\obj\Debug\ResolveAssemblyReference.cache
+c:\users\roothema\documents\visual studio 2010\Projects\ScannerUtility\NxtController\obj\Debug\NxtController.dll
+c:\users\roothema\documents\visual studio 2010\Projects\ScannerUtility\NxtController\obj\Debug\NxtController.pdb
+c:\users\roothema\documents\visual studio 2010\Projects\ScannerUtility\NxtController\bin\Debug\NKH.MindSqualls.dll
+c:\users\roothema\documents\visual studio 2010\Projects\ScannerUtility\NxtController\bin\Debug\NKH.MindSqualls.pdb
+c:\users\roothema\documents\visual studio 2010\Projects\ScannerUtility\NxtController\bin\Debug\NKH.MindSqualls.xml
+d:\_scanner\ScannerUtility\NxtController\bin\Debug\NxtController.dll
+d:\_scanner\ScannerUtility\NxtController\bin\Debug\NxtController.pdb
+d:\_scanner\ScannerUtility\NxtController\bin\Debug\NKH.MindSqualls.pdb
+d:\_scanner\ScannerUtility\NxtController\bin\Debug\NKH.MindSqualls.xml
+d:\_scanner\ScannerUtility\NxtController\obj\Debug\ResolveAssemblyReference.cache
+d:\_scanner\ScannerUtility\NxtController\obj\Debug\NxtController.dll
+d:\_scanner\ScannerUtility\NxtController\obj\Debug\NxtController.pdb
+d:\!Scanner\_scanner\ScannerUtility\NxtController\bin\Debug\NxtController.dll
+d:\!Scanner\_scanner\ScannerUtility\NxtController\bin\Debug\NxtController.pdb
+d:\!Scanner\_scanner\ScannerUtility\NxtController\bin\Debug\NKH.MindSqualls.pdb
+d:\!Scanner\_scanner\ScannerUtility\NxtController\bin\Debug\NKH.MindSqualls.xml
+d:\!Scanner\_scanner\ScannerUtility\NxtController\obj\Debug\ResolveAssemblyReference.cache
+d:\!Scanner\_scanner\ScannerUtility\NxtController\obj\Debug\NxtController.dll
+d:\!Scanner\_scanner\ScannerUtility\NxtController\obj\Debug\NxtController.pdb
+C:\Users\Roothema\Documents\Visual Studio 2010\Projects\Scanner\NxtController\bin\Debug\NxtController.dll
+C:\Users\Roothema\Documents\Visual Studio 2010\Projects\Scanner\NxtController\bin\Debug\NxtController.pdb
+C:\Users\Roothema\Documents\Visual Studio 2010\Projects\Scanner\NxtController\bin\Debug\NKH.MindSqualls.pdb
+C:\Users\Roothema\Documents\Visual Studio 2010\Projects\Scanner\NxtController\bin\Debug\NKH.MindSqualls.xml
+C:\Users\Roothema\Documents\Visual Studio 2010\Projects\Scanner\NxtController\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Roothema\Documents\Visual Studio 2010\Projects\Scanner\NxtController\obj\Debug\NxtController.dll
+C:\Users\Roothema\Documents\Visual Studio 2010\Projects\Scanner\NxtController\obj\Debug\NxtController.pdb
